@@ -24,7 +24,7 @@ monitor:
 
 properties:
   MOD_CLUSTER: modcluster-1-3:6666
-  title: Tomcat HelloWorld - AppZProd
+  title: Tomcat HelloWorld - AK-EASY-0226
   head_color : Red
   threads: 5
   delay: 15
