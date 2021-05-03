@@ -4,7 +4,7 @@ app:
   notify: akanade@ecloudcontrol.com
 
 build:
-  version: 0.3
+  version: 0.4
   env: DEV
   build_file: pom.xml
   output_files: output/*.war
@@ -24,7 +24,7 @@ monitor:
 
 properties:
   MOD_CLUSTER: modcluster-1-3:6666
-  title: Tomcat HelloWorld - AK-0430
+  title: Tomcat HelloWorld - AK-0503
   head_color : Red
   threads: 5
   delay: 15
