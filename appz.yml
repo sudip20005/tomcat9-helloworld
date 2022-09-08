@@ -31,5 +31,4 @@ properties:
   next: 15
   download: true
   random : true
-  nano : 79
-
+  nano : 80
