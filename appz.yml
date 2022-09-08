@@ -1,7 +1,7 @@
 app:
   name: Tomcat Loadgen
   code: TCLG
-  notify: akanade@ecloudcontrol.com
+  notify: sudip20005@cmsitservices.com
 
 build:
   version: 0.5
