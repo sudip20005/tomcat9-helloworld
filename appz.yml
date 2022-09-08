@@ -25,10 +25,10 @@ monitor:
 properties:
   MOD_CLUSTER: modcluster-1-3:6666
   title: Tomcat HelloWorld - AK-0506
-  head_color : Red
+  head_color : Green
   threads: 5
-  delay: 15
-  next: 15
+  delay: 14
+  next: 14
   download: true
   random : true
   nano : 80
