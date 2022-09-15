@@ -37,7 +37,7 @@
 
           .column-mid-white {
               background-color:#3377ff;
-              color: blue;
+              color: white;
               float: left;
               width: 25%;
               padding: 10px;
