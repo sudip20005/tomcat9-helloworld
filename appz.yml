@@ -12,7 +12,7 @@ build:
   image_name: abhikanade-cc/tomcat9-helloworld
 
 deploy:
-  context: sudip20005/DEV
+  context: app/DEV
   replicas: 4
   port: 
    - 8080
